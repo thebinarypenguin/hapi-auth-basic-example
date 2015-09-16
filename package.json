@@ -1,0 +1,10 @@
+{
+  "name": "hapi-auth-basic-example",
+  "version": "0.0.0",
+  "dependencies": {
+    "hapi-auth-basic": "~3.0.0",
+    "vision": "~3.0.0",
+    "handlebars": "~4.0.2",
+    "hapi": "~10.0.0"
+  }
+}
